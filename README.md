@@ -1,3 +1,19 @@
+This example is not pretty (yet).
+
+A browser that shows a contact list that has:
+- Add contact
+- Edit contact
+- Delete contact
+- Sort by name (alphabetically)
+- Sort by number
+- A responsive nav bar
+- Increment
+- Decrement
+- Total of increment/decrement
+- A search bar that takes any letters in the contacts and filters out names that do not contain the letters
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
